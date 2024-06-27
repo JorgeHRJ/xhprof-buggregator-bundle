@@ -1,5 +1,5 @@
 {
-  "name": "iluckhack/xhprof-buggregator-bundle",
+  "name": "jorgehrj/xhprof-buggregator-bundle",
   "description": "Xhprof buggregator integration for Symfony Framework",
   "keywords": [
     "iluckhack",
@@ -7,13 +7,18 @@
     "buggregator",
     "xhprof"
   ],
-  "homepage": "https://github.com/iluckhack/xhprof-buggregator-bundle",
+  "homepage": "https://github.com/jorgehrj/xhprof-buggregator-bundle",
   "type": "symfony-bundle",
   "license": "MIT",
   "authors": [
     {
       "name": "Andrey Pakhomov",
       "email": "luckhack@inbox.ru",
+      "role": "Developer"
+    },
+    {
+      "name": "Jorge Hernandez Rios",
+      "email": "jorgehrios94@gmail.com",
       "role": "Developer"
     }
   ],
